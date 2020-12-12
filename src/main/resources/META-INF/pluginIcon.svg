@@ -1,0 +1,37 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+    <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+    <g>
+        <title>background</title>
+        <rect fill="#fff" id="canvas_background" height="502" width="502" y="-1" x="-1"/>
+        <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+            <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+        </g>
+    </g>
+    <g>
+        <title>Layer 1</title>
+        <rect stroke-opacity="0" id="svg_3" height="279" width="503" y="223" x="-1.5" stroke-width="1.5"
+              stroke="#0fffff" fill="#000"/>
+        <rect id="svg_6" height="144" width="77" y="90" x="375.5" fill-opacity="null" stroke-width="1.5"
+              stroke="#000000" fill="#000"/>
+        <rect id="svg_7" height="144" width="77" y="146" x="226.5" fill-opacity="null" stroke-width="1.5"
+              stroke="#000000" fill="#000"/>
+        <rect id="svg_9" height="66" width="73" y="287" x="44.5" stroke-width="1.5" stroke="#000" fill="#fff"/>
+        <rect id="svg_13" height="66" width="73" y="383" x="203.5" stroke-width="1.5" stroke="#000" fill="#fff"/>
+        <ellipse stroke="#ffffff" ry="22" rx="22.5" id="svg_14" cy="121" cx="256" stroke-width="1.5" fill="#7d8787"/>
+        <ellipse stroke="#ffffff" ry="22" rx="22.5" id="svg_15" cy="98" cx="251" stroke-opacity="0" stroke-width="1.5"
+                 fill="#7d8787"/>
+        <ellipse stroke="#ffffff" ry="22" rx="22.5" id="svg_18" cy="98" cx="228" stroke-opacity="0" stroke-width="1.5"
+                 fill="#7d8787"/>
+        <ellipse stroke="#ffffff" ry="22" rx="22.5" id="svg_19" cy="73" cx="257" stroke-opacity="0" stroke-width="1.5"
+                 fill="#7d8787"/>
+        <ellipse stroke="#ffffff" ry="22" rx="22.5" id="svg_20" cy="69" cx="222" stroke-opacity="0" stroke-width="1.5"
+                 fill="#7d8787"/>
+        <ellipse stroke="#ffffff" ry="22" rx="22.5" id="svg_21" cy="63" cx="399" stroke-opacity="0" stroke-width="1.5"
+                 fill="#7d8787"/>
+        <ellipse stroke="#ffffff" ry="22" rx="22.5" id="svg_22" cy="36" cx="378" stroke-opacity="0" stroke-width="1.5"
+                 fill="#7d8787"/>
+        <ellipse stroke="#ffffff" ry="22" rx="22.5" id="svg_23" cy="24" cx="407" stroke-opacity="0" stroke-width="1.5"
+                 fill="#7d8787"/>
+        <rect id="svg_25" height="66" width="73" y="258" x="378.5" stroke-width="1.5" stroke="#000" fill="#fff"/>
+    </g>
+</svg>

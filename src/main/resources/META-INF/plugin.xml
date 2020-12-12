@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>org.example.object-generator</id>
     <name>Object Generator</name>
-    <vendor email="betrayer11@gmail.com" url="https://singleton11.github.com">Singleton 11</vendor>
+    <vendor email="betrayer11@gmail.com" url="https://singleton11.github.com">unoxic</vendor>
 
     <description><![CDATA[
     Copy to clipboard code for generation of chosen object.
