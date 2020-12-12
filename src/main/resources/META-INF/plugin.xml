@@ -12,7 +12,10 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <!-- Add your extensions here -->
+        <intentionAction>
+            <className>com.github.singleton11.ObjectGenerator</className>
+            <category>Object generator</category>
+        </intentionAction>
     </extensions>
 
     <actions>
